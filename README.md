@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="2026-09-07" src="https://github.com/user-attachments/assets/1eee4c4a-561b-44c9-96b1-47619bace04a" />
 # -Airline-Revenue-Management-Dashboard
 Аналитический BI-дашборд для коммерческого директора авиакомпании. Проект демонстрирует полный цикл работы BI-аналитика: от проектирования модели данных в PostgreSQL до интерактивной визуализации в Tableau.
 Контекст и цель проекта
